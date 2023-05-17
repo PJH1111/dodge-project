@@ -1,0 +1,5 @@
+﻿  game.cpp
+C:\Users\user\Desktop\KHS\openCV\workspace\opencv_teamproject_20230208\opencv_teamproject_20230208\game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  main.cpp
+C:\Users\user\Desktop\KHS\openCV\workspace\opencv_teamproject_20230208\opencv_teamproject_20230208\game.h(2,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  코드를 생성하고 있습니다...
